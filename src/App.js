@@ -108,8 +108,7 @@ function App() {
                   scrolling="no"
                   marginHeight="0"
                   marginWidth="0"
-                  src="https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=en&amp;q=Zona%20norte+(Iday%20Autodelivery)&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"
-                ></iframe>
+                  src="https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=en&amp;q=General%20Pacheco+(Iday%20Autodelivery)&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"/>
               </div>
             </div>
           </div>
