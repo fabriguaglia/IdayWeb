@@ -108,13 +108,13 @@ function App() {
                   scrolling="no"
                   marginHeight="0"
                   marginWidth="0"
-                  src="https://maps.google.com/maps?width=100%25&amp;height=400&amp;hl=en&amp;q=Zona%20norte+(Iday%20Autodelivery)&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"
+                  src="https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=en&amp;q=Zona%20norte+(Iday%20Autodelivery)&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"
                 ></iframe>
               </div>
             </div>
           </div>
         </div>
-      
+
       {/* FOOTER */}
       <div className="container"> 
         <footer className="d-flex flex-wrap justify-content-between align-items-center py-3 my-4 border-top"> 
@@ -124,7 +124,12 @@ function App() {
                 <use xlinkHref="#bootstrap"></use>
               </svg> 
             </a> 
-            <span className="mb-3 mb-md-0 text-body-secondary">© 2025 Iday Autodelivery | +54 9 11 4495-6123</span> 
+            <span className="mb-3 mb-md-0 text-body-secondary">
+              © 2025 Iday Autodelivery |{' '}
+              <a href="tel:+5491144956123" className="text-body-secondary text-decoration-none">
+                +54 9 11 4495-6123
+              </a>
+            </span>
           </div> 
           <ul className="nav col-md-4 justify-content-end list-unstyled d-flex">
             <li className="ms-3">
